@@ -1,0 +1,54 @@
+.layar{
+   width: 1200px;
+    margin-top:20px;
+    background: #fafafa;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: space-between;
+    
+}
+
+.baris {
+
+    display: flex;
+    flex-direction: row;
+    
+   
+}
+.card-luar{
+    border-radius: 10px;
+    margin-bottom: 100px;
+    height: 80vh;
+    overflow: auto;
+    box-shadow: 10px 10px 14px 0px rgba(0,0,0,0.75); 
+    background: rgb(247, 246, 244);
+}
+
+
+.card-title{
+    margin-top: 100px;
+    border-radius: 10px;
+    text-align: center;;
+    box-shadow: 10px 10px 14px 0px rgba(0,0,0,0.75);    
+    padding: 10px;
+    width: rem;
+}
+
+.buttons .btn{
+    font-size:10px;
+    padding:4px 6px;
+}
+
+
+.navbarmodif{
+    background: rgb(230, 209, 26);
+    font-family: Arial, Helvetica, sans-serif;
+    width:100%;
+   
+}
+
+.task-card {
+    margin-top: 15px;
+    box-shadow: 10px 10px 14px 0px rgba(0,0,0,0.75); 
+    /* background: rgb(240, 240, 205); */
+}
